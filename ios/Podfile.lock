@@ -1,0 +1,67 @@
+PODS:
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_foreground_task (0.0.1):
+    - Flutter
+  - flutter_webrtc (0.9.31):
+    - Flutter
+    - WebRTC-SDK (= 104.5112.17)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - touch_ripple_effect (0.0.1):
+    - Flutter
+  - videosdk (0.0.1):
+    - Flutter
+  - WebRTC-SDK (104.5112.17)
+
+DEPENDENCIES:
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_foreground_task (from `.symlinks/plugins/flutter_foreground_task/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - touch_ripple_effect (from `.symlinks/plugins/touch_ripple_effect/ios`)
+  - videosdk (from `.symlinks/plugins/videosdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_foreground_task:
+    :path: ".symlinks/plugins/flutter_foreground_task/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  touch_ripple_effect:
+    :path: ".symlinks/plugins/touch_ripple_effect/ios"
+  videosdk:
+    :path: ".symlinks/plugins/videosdk/ios"
+
+SPEC CHECKSUMS:
+  device_info_plus: 7545d84d8d1b896cb16a4ff98c19f07ec4b298ea
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_foreground_task: 21ef182ab0a29a3005cc72cd70e5f45cb7f7f817
+  flutter_webrtc: 02c023207f972145a3bc8c7aada86754f264d563
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  shared_preferences_foundation: b4c3b4cddf1c21f02770737f147a3f5da9d39695
+  touch_ripple_effect: 5b850cbec069237959ef95e7e81e7ee7f934ac76
+  videosdk: a23c2981afcefd8ac781c7778d39669282441093
+  WebRTC-SDK: 082ae4893212534a779ca233f19a9df8efd5f3bd
+
+PODFILE CHECKSUM: 3dc5f977e7387d69d133563136ad5fb1231b0214
+
+COCOAPODS: 1.13.0
